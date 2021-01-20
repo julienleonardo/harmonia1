@@ -5,8 +5,15 @@ h1 {
 .my-class {
   width: 50%;
   padding: 20px;
-  border: solid rgb(179, 104, 43);
+  border: solid rgb(252, 153, 5);
   border-width: 20px;
   background-color: rgb(78, 165, 93);
   margin-bottom: 10px;
   }
+
+  .column {
+    width: 300px;
+    float: left;
+  }
+
+  
