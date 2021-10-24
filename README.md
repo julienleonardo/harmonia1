@@ -2,7 +2,7 @@
 
 A website about the German band Harmonia
 
-#### By Julian Leonardo
+#### By Julien Leonardo
 
 ## Technologies Used
 
@@ -18,7 +18,7 @@ A student HTML project: "Demonstration site showcasing HTML & CSS."
 
 * Clone this repository to your desktop.
 * navigate to the top level of the directory.
-* https://github.com/julianleonardo/harmonia.git
+* https://github.com/julianleonardo/harmonia1.git
 
 
 ## License
@@ -28,4 +28,4 @@ MIT
 Copyright (c) 2020 Julian Leonardo
 ## Contact Information
 
-Julain Leonardo ( louderthanbombs9@gmail.com )
+Julien Leonardo ( julien.m.leonardo@gmail.com )
