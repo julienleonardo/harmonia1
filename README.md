@@ -18,14 +18,14 @@ A student HTML project: "Demonstration site showcasing HTML & CSS."
 
 * Clone this repository to your desktop.
 * navigate to the top level of the directory.
-* https://github.com/julianleonardo/harmonia1.git
+* https://github.com/julienleonardo/harmonia1.git
 
 
 ## License
 
 MIT
 
-Copyright (c) 2020 Julian Leonardo
+Copyright (c) 2021 Julian Leonardo
 ## Contact Information
 
 Julien Leonardo ( julien.m.leonardo@gmail.com )
